@@ -1,1 +1,17 @@
 push.sh
+*.ipynb
+LN009-Numpy-array.ipynb
+.ipynb_checkpoints/EX05-plotting-checkpoint.ipynb
+AEX03.ipynb
+assignment_1/assignment_1-linear-reqression-leastsquares.ipynb
+assignment_2/.ipynb_checkpoints/assignment_2-checkpoint.ipynb
+assignment_2/assignment_2.ipynb
+assignment_2/HW2/.ipynb_checkpoints/DUE_DATE-checkpoint.txt
+assignment_2/HW2/.ipynb_checkpoints/Hawaii_emperor_data-checkpoint.txt
+assignment_2/HW2/.ipynb_checkpoints/Needham_HW_2-checkpoint.ipynb
+assignment_2/HW2/DUE_DATE.txt
+assignment_2/HW2/Hawaii_emperor_data.txt
+assignment_2/HW2/Kilauea.gif
+assignment_2/HW2/Map.jpg
+assignment_2/HW2/Needham_HW_2.ipynb
+assignment_2/HW2/Oceanfloor.jpg
